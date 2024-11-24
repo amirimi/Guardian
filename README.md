@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/872898055.svg)](https://doi.org/10.5281/zenodo.14211991)
-[![Go CI](https://github.com/AMK9978/Guardian/actions/workflows/go.yml/badge.svg)](https://github.com/AMK9978/Guardian/actions/workflows/go.yml)
+[![Go CI](https://github.com/amirimi/Guardian/actions/workflows/go.yml/badge.svg)](https://github.com/amirimi/Guardian/actions/workflows/go.yml)
 
 # LLM Guardian Kernel
 A plug-and-play end-to-end LLM guardian for seamless integration.
@@ -28,7 +28,7 @@ denormalized data for faster retrieval. If the external plugin calls get added, 
 ## Get Started
 Docker:
 ```
-git clone git@github.com:amk9978/Guardian.git
+git clone git@github.com:amirimi/Guardian.git
 docker-compose up --build -d
 ```
 
@@ -43,5 +43,5 @@ If you use this application, please cite it using the "Cite this repository" abo
 
 ## Contribution
 I am always welcome to your contributions. Open an issue and/or open a PR accordingly.
-This system is designed and the central unit is developed by Amir Karimi (@amk9978).
+This system is designed and the central unit is developed by Amir Karimi (@amirimi).
 
